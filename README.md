@@ -3,17 +3,25 @@
 
 
  I'm an aspiring full-stack developer from Morocco, building my version of the digital world one step at a time. Every project is crafted from the ground up, from planning and designing to solving real-life problems with code. I’m on a journey to learn, grow, and share my progress as I explore the endless possibilities of web development. Let’s connect and build something amazing together! 🚀
+ 
+<p align="left">
+   <a href="https://github.com/unnanmed1?tab=followers">
+      <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/unnanmed1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://github.com/unnanmed1?tab=repositories&sort=stargazers">
+      <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/unnanmed1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+   <a href="https://github.com/unnanmed1">
+      <img alt="GitHub profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=unnanmed1&color=yellow&style=for-the-badge"/>
+   </a>
+   <a href="https://github.com/unnanmed1?tab=repositories">
+      <img alt="GitHub repos" title="Total repositories" src="https://custom-icon-badges.demolab.com/github/repos/unnanmed1?color=blue&style=for-the-badge&labelColor=0057b7&logo=book"/>
+   </a>
+</p>
 
-   <p align="left">
-      <a href="https://www.youtube.com/@404._error_1?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+
+
+
 
 ---
 
@@ -31,8 +39,7 @@
 <br />
 
 #
-
-### 📺 Latest YouTube Videos
+### 📺 Favorite Tech Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Cargo First Impression](https://ytcards.demolab.com/?id=V2nRJRIaIRE&title=Cargo+First+Impression&lang=en&timestamp=1738947638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Cargo First Impression")](https://www.youtube.com/watch?v=V2nRJRIaIRE)
@@ -41,23 +48,33 @@
 [![Rust Borrow Checker](https://ytcards.demolab.com/?id=9rdT4v7gn_Q&title=Rust+Borrow+Checker&lang=en&timestamp=1738515615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61 "Rust Borrow Checker")](https://www.youtube.com/watch?v=9rdT4v7gn_Q)
 [![I Tried to Learn Rust (w/ Advent of Code)](https://ytcards.demolab.com/?id=e5YfD4NHlCI&title=I+Tried+to+Learn+Rust+%28w%2F+Advent+of+Code%29&lang=en&timestamp=1738351808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5417 "I Tried to Learn Rust (w/ Advent of Code)")](https://www.youtube.com/watch?v=e5YfD4NHlCI)
 [![Rust Ownership](https://ytcards.demolab.com/?id=FNpN8l12cqU&title=Rust+Ownership&lang=en&timestamp=1738170021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85 "Rust Ownership")](https://www.youtube.com/watch?v=FNpN8l12cqU)
-<!-- END YOUTUBE-CARDS -->
+[![What is Web3?](https://ytcards.demolab.com/?id=RGOj5yH7evk&title=What+is+Web3%3F&lang=en&timestamp=1738000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=720 "What is Web3?")](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+<!-- END Fav-Yt-Vids -->
 
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@404._error_1?sub_confirmation=1)
 
 #
 <!--
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>🚀 My Projects</h3></summary>
+
+I love building **practical, real-world projects** that solve problems and enhance user experiences. Here are some of my favorite projects that showcase my skills and creativity:  
+
+### 🌐 **[Project Name 1](#)**  
+**Tech Stack:** HTML, CSS, JavaScript, React  
+A sleek, responsive web application designed to **[describe what it does]**. Features include **[list key features like authentication, API integration, etc.]**.  
+
+### 📊 **[Project Name 2](#)**  
+**Tech Stack:** Node.js, Express, MongoDB  
+A **[describe what it does]** with a focus on **backend performance, database management, and secure authentication**.  
+
+### 🎨 **[Project Name 3](#)**  
+**Tech Stack:** Next.js, Tailwind CSS  
+A **modern, interactive website** built to **[describe purpose]** with **optimized performance and great UX/UI design**.  
+
+I'm always working on new ideas and refining my skills. Stay tuned for more!  
+</details>
 -->
 [website]: Soon!
 [youtube]: https://www.youtube.com/@404._error_1?sub_confirmation=1
