@@ -39,16 +39,32 @@
 <br />
 
 #
-### 📺 Favorite Tech Videos
+<h3>📺 Favorite Tech Videos</h3>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Cargo First Impression](https://ytcards.demolab.com/?id=V2nRJRIaIRE&title=Cargo+First+Impression&lang=en&timestamp=1738947638&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Cargo First Impression")](https://www.youtube.com/watch?v=V2nRJRIaIRE)
-[![Rust Immutability](https://ytcards.demolab.com/?id=WD6Ub-ensYs&title=Rust+Immutability&lang=en&timestamp=1738774838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=31 "Rust Immutability")](https://www.youtube.com/watch?v=WD6Ub-ensYs)
-[![Why Devs Use Docker](https://ytcards.demolab.com/?id=ngLrCFL2h6U&title=Why+Devs+Use+Docker&lang=en&timestamp=1738602059&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "Why Devs Use Docker")](https://www.youtube.com/watch?v=ngLrCFL2h6U)
-[![Rust Borrow Checker](https://ytcards.demolab.com/?id=9rdT4v7gn_Q&title=Rust+Borrow+Checker&lang=en&timestamp=1738515615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=61 "Rust Borrow Checker")](https://www.youtube.com/watch?v=9rdT4v7gn_Q)
-[![I Tried to Learn Rust (w/ Advent of Code)](https://ytcards.demolab.com/?id=e5YfD4NHlCI&title=I+Tried+to+Learn+Rust+%28w%2F+Advent+of+Code%29&lang=en&timestamp=1738351808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=5417 "I Tried to Learn Rust (w/ Advent of Code)")](https://www.youtube.com/watch?v=e5YfD4NHlCI)
-[![Rust Ownership](https://ytcards.demolab.com/?id=FNpN8l12cqU&title=Rust+Ownership&lang=en&timestamp=1738170021&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=85 "Rust Ownership")](https://www.youtube.com/watch?v=FNpN8l12cqU)
-[![What is Web3?](https://ytcards.demolab.com/?id=RGOj5yH7evk&title=What+is+Web3%3F&lang=en&timestamp=1738000000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=720 "What is Web3?")](https://www.youtube.com/watch?v=RGOj5yH7evk)
+<!-- BEGIN Fav-Yt-Vids -->
+<a href="https://www.youtube.com/watch?v=hu-q2zYwEYs">
+    <img src="https://ytcards.demolab.com/?id=hu-q2zYwEYs&title=Tech+Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 1">
+</a>
+
+<a href="https://www.youtube.com/watch?v=Sh6lK57Cuk4">
+    <img src="https://ytcards.demolab.com/?id=Sh6lK57Cuk4&title=Tech+Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 2">
+</a>
+
+<a href="https://www.youtube.com/watch?v=Tn6-PIqc4UM">
+    <img src="https://ytcards.demolab.com/?id=Tn6-PIqc4UM&title=Tech+Video+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 3">
+</a>
+
+<a href="https://www.youtube.com/watch?v=fqMOX6JJhGo">
+    <img src="https://ytcards.demolab.com/?id=fqMOX6JJhGo&title=Tech+Video+4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 4">
+</a>
+
+<a href="https://www.youtube.com/watch?v=0xMQfnTU6oo">
+    <img src="https://ytcards.demolab.com/?id=0xMQfnTU6oo&title=Tech+Video+5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 5">
+</a>
+
+<a href="https://www.youtube.com/watch?v=RGOj5yH7evk">
+    <img src="https://ytcards.demolab.com/?id=RGOj5yH7evk&title=Tech+Video+6&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 6">
+</a>
 
 <!-- END Fav-Yt-Vids -->
 
