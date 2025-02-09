@@ -3,7 +3,9 @@
 
 
  I'm an aspiring full-stack developer from Morocco, building my version of the digital world one step at a time. Every project is crafted from the ground up, from planning and designing to solving real-life problems with code. I’m on a journey to learn, grow, and share my progress as I explore the endless possibilities of web development. Let’s connect and build something amazing together! 🚀
+ #
  
+ #
 <p align="left">
    <a href="https://github.com/unnanmed1?tab=followers">
       <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/unnanmed1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -92,5 +94,14 @@ A **modern, interactive website** built to **[describe purpose]** with **optimiz
 I'm always working on new ideas and refining my skills. Stay tuned for more!  
 </details>
 -->
-[website]: Soon!
-[youtube]: https://www.youtube.com/@404._error_1?sub_confirmation=1
+<div style="text-align: left;">
+  <a href="https://youtube.com/@404._error_1?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/rida_unn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+</div>
+
