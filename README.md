@@ -5,7 +5,6 @@
  I'm an aspiring full-stack developer from Morocco, building my version of the digital world one step at a time. Every project is crafted from the ground up, from planning and designing to solving real-life problems with code. I’m on a journey to learn, grow, and share my progress as I explore the endless possibilities of web development. Let’s connect and build something amazing together! 🚀
  #
  
- #
 <p align="left">
    <a href="https://github.com/unnanmed1?tab=followers">
       <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/unnanmed1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
