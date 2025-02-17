@@ -95,10 +95,6 @@ A **modern, interactive website** built to **[describe purpose]** with **optimiz
 I'm always working on new ideas and refining my skills. Stay tuned for more!  
 </details>
 -->
-<div style="text-align: left;">
-  <a href="https://youtube.com/@404._error_1?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
   <a href="https://www.instagram.com/rida_unn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
