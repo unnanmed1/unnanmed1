@@ -68,30 +68,9 @@
 </a>
 
 <!-- END Fav-Yt-Vids -->
-#
-<!--
-<details>
- <summary><h3>🚀 My Projects</h3></summary>
 
-I love building **practical, real-world projects** that solve problems and enhance user experiences. Here are some of my favorite projects that showcase my skills and creativity:  
-
-### 🌐 **[Project Name 1](#)**  
-**Tech Stack:** HTML, CSS, JavaScript, React  
-A sleek, responsive web application designed to **[describe what it does]**. Features include **[list key features like authentication, API integration, etc.]**.  
-
-### 📊 **[Project Name 2](#)**  
-**Tech Stack:** Node.js, Express, MongoDB  
-A **[describe what it does]** with a focus on **backend performance, database management, and secure authentication**.  
-
-### 🎨 **[Project Name 3](#)**  
-**Tech Stack:** Next.js, Tailwind CSS  
-A **modern, interactive website** built to **[describe purpose]** with **optimized performance and great UX/UI design**.  
-
-I'm always working on new ideas and refining my skills. Stay tuned for more!  
-</details>
--->
-  <a href="https://www.instagram.com/rida_unn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+<a href="https://www.instagram.com/rida_unn" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+</a>
 
 
