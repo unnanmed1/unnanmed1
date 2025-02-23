@@ -2,7 +2,7 @@
  # 🚀 Aspiring Full-Stack Developer | Learning & Building from Morocco 🌍
 
 
- I'm an aspiring full-stack developer from Morocco, building my version of the digital world one step at a time. Every project is crafted from the ground up, from planning and designing to solving real-life problems with code. I’m on a journey to learn, grow, and share my progress as I explore the endless possibilities of web development. Let’s connect and build something amazing together! 🚀
+ I'm an aspiring full-stack developer from Morocco, building my version of the digital world one step at a time. Every project is crafted from the ground up, from planning and designing to solving real-life problems with code. I’m on a journey to learn, grow, and share my progress as I explore the endless possibilities of web development. If you’re interested in collaborating on a project, feel free to reach out to me on Instagram @rida_unn.
  #
  
 <p align="left">
