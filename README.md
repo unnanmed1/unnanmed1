@@ -1,8 +1,8 @@
 #  Unnanmed | Full Stack Web Developer
- # 🚀 Aspiring Full-Stack Developer | Learning & Building from Morocco 🌍
+ # 🚀 Learning Full-Stack Web Development | Sharing Projects & Growing  Aspiring Full-Stack Developer 
 
 
- I'm an aspiring full-stack developer from Morocco, building my version of the digital world one step at a time. Every project is crafted from the ground up, from planning and designing to solving real-life problems with code. I’m on a journey to learn, grow, and share my progress as I explore the endless possibilities of web development. If you’re interested in collaborating on a project, feel free to reach out to me on Instagram @rida_unn.
+  I'm a full-stack developer in the making, building my own digital world piece by piece. Every project is developed from scratch, from planning and designing to coding real-life problems. I'm on a mission to learn, grow, and share my experience as I explore the endless possibilities of web development. If you're keen on collaborating on a project, you can reach me on Instagram <a href="https://www.instagram.com/rida_unn" target="_blank">@rida_unn</a>
  #
  
 <p align="left">
