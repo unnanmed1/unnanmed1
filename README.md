@@ -1,4 +1,3 @@
-
 #  Unnanmed 
  ## 🚀 Learning Full-Stack Web Development | Sharing Projects & Growing  Aspiring Full-Stack Developer 
 
@@ -23,7 +22,7 @@
 
 #
 
-###  Languages and Tools: 
+### 💻 Languages and Tools: 
 
 | **Version Control** | **Operating System** | **Frontend** | **Backend** | **Database** | **Editors** |
 |---------------------|----------------------|--------------|-------------|--------------|-------------|
@@ -42,4 +41,3 @@
 <a href="https://www.instagram.com/rida_unn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-
