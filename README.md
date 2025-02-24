@@ -1,6 +1,7 @@
-#  Unnanmed | "The biggest risk is not taking any risk. -Mark Zuckerberg
- # 🚀 Learning Full-Stack Web Development | Sharing Projects & Growing  Aspiring Full-Stack Developer 
+#  Unnanmed 
+ ## 🚀 Learning Full-Stack Web Development | Sharing Projects & Growing  Aspiring Full-Stack Developer 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unnanmed1&layout=compact&langs_count=10&theme=radical)
 
   I'm a full-stack developer in the making, building my own digital world piece by piece. Every project is developed from scratch, from planning and designing to coding real-life problems. I'm on a mission to learn, grow, and share my experience as I explore the endless possibilities of web development. If you're keen on collaborating on a project, you can reach me on Instagram <a href="https://www.instagram.com/rida_unn" target="_blank">@rida_unn</a>
  #
