@@ -1,20 +1,29 @@
+
 #  Unnanmed 
  ## 🚀 Learning Full-Stack Web Development | Sharing Projects & Growing  Aspiring Full-Stack Developer 
 
   I'm a full-stack developer in the making, building my own digital world piece by piece. Every project is developed from scratch, from planning and designing to coding real-life problems. I'm on a mission to learn, grow, and share my experience as I explore the endless possibilities of web development. If you're keen on collaborating on a project, you can reach me on Instagram <a href="https://www.instagram.com/rida_unn" target="_blank">@rida_unn</a>
   
- ### 📊 GitHub Stats
- 
+### 📊 GitHub Stats
+
+<!--  Followers -->
 <p align="left">
    <a href="https://github.com/unnanmed1?tab=followers">
       <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/unnanmed1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
+ <!-- Stars-->
    <a href="https://github.com/unnanmed1?tab=repositories&sort=stargazers">
       <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/unnanmed1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
    </a>
+ <!-- Views -->
    <a href="https://github.com/unnanmed1">
       <img alt="GitHub profile views" title="Profile views" src="https://komarev.com/ghpvc/?username=unnanmed1&color=yellow&style=for-the-badge"/>
    </a>
+  <!-- Lines Of code -->
+    <a href="https://github.com/unnanmed1">
+      <img alt="Lines of code" title="Total lines of code written" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/unnanmed1/repos&query=%24..size&logo=code&label=Lines%20of%20Code&color=orange&style=for-the-badge&labelColor=FFA500"/>
+   </a>
+  <!-- Repositories -->
    <a href="https://github.com/unnanmed1?tab=repositories">
       <img alt="GitHub repos" title="Total repositories" src="https://custom-icon-badges.demolab.com/github/repos/unnanmed1?color=blue&style=for-the-badge&labelColor=0057b7&logo=book"/>
    </a>
