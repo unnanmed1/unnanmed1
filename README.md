@@ -1,8 +1,9 @@
+<h1 align="center" style="font-size: 2.5em; color: #1e90ff; margin-bottom: 10px;"> Unnanmed</h1>
 
-#  Unnanmed 
+**`PHP Developer | MySQL Enthusiast | Building Scalable Backend Solutions`** <br>
+
 🚀 Learning Full-Stack Web Development | Sharing Projects & Growing  Aspiring Full-Stack Developer 
-
-**`PHP Developer | MySQL Enthusiast | Building Scalable Backend Solutions`**
+#
 <!--  Introduction -->
   I'm a full-stack developer in the making, building my own digital world piece by piece. Every project is developed from scratch, from planning and designing to coding real-life problems. I'm on a mission to learn, grow, and share my experience as I explore the endless possibilities of web development. <br>
   If you're keen on collaborating on a project, you can reach me on Instagram <a href="https://www.instagram.com/rida_unn" target="_blank">@rida_unn</a>
