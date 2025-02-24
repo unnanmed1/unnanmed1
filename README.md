@@ -1,4 +1,8 @@
-<h1 align="center" style="font-size: 2.5em; color: #1e90ff; margin-bottom: 10px;"> Unnanmed</h1>
+<!--  Username -->
+
+ <h1 align="center" style="font-size: 2.5em; color: #1e90ff; margin-bottom: 10px;"> Unnanmed</h1> 
+
+<!--  Specialisation -->
 
 **`PHP Developer | MySQL Enthusiast | Building Scalable Backend Solutions`** <br>
 
