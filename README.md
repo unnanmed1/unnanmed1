@@ -1,10 +1,10 @@
+
 #  Unnanmed 
  ## 🚀 Learning Full-Stack Web Development | Sharing Projects & Growing  Aspiring Full-Stack Developer 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unnanmed1&layout=compact&langs_count=10&theme=radical)
-
   I'm a full-stack developer in the making, building my own digital world piece by piece. Every project is developed from scratch, from planning and designing to coding real-life problems. I'm on a mission to learn, grow, and share my experience as I explore the endless possibilities of web development. If you're keen on collaborating on a project, you can reach me on Instagram <a href="https://www.instagram.com/rida_unn" target="_blank">@rida_unn</a>
- #
+  
+ ### 📊 GitHub Stats
  
 <p align="left">
    <a href="https://github.com/unnanmed1?tab=followers">
@@ -21,58 +21,25 @@
    </a>
 </p>
 
+#
 
+###  Languages and Tools: 
 
-
-
+| **Version Control** | **Operating System** | **Frontend** | **Backend** | **Database** | **Editors** |
+|---------------------|----------------------|--------------|-------------|--------------|-------------|
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50"> Git | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="50"> Linux | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50"> HTML | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50"> JavaScript | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50"> MySQL | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="50"> VS Code |
+| <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="50"> GitHub | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="50"> Windows | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50"> CSS | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="50"> PHP | | |
+| | | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50"> Bootstrap | <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="50"> Python | | |
 
 ---
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<br />
+### 📈 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unnanmed1&layout=compact&langs_count=10&theme=radical)
 
 #
-<h3>📺 Favorite Tech Videos</h3>
 
-<!-- BEGIN Fav-Yt-Vids -->
-<a href="https://www.youtube.com/watch?v=hu-q2zYwEYs">
-    <img src="https://ytcards.demolab.com/?id=hu-q2zYwEYs&title=Tech+Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 1">
-</a>
-
-<a href="https://www.youtube.com/watch?v=Sh6lK57Cuk4">
-    <img src="https://ytcards.demolab.com/?id=Sh6lK57Cuk4&title=Tech+Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 2">
-</a>
-
-<a href="https://www.youtube.com/watch?v=Tn6-PIqc4UM">
-    <img src="https://ytcards.demolab.com/?id=Tn6-PIqc4UM&title=Tech+Video+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 3">
-</a>
-
-<a href="https://www.youtube.com/watch?v=fqMOX6JJhGo">
-    <img src="https://ytcards.demolab.com/?id=fqMOX6JJhGo&title=Tech+Video+4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 4">
-</a>
-
-<a href="https://www.youtube.com/watch?v=0xMQfnTU6oo">
-    <img src="https://ytcards.demolab.com/?id=0xMQfnTU6oo&title=Tech+Video+5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 5">
-</a>
-
-<a href="https://www.youtube.com/watch?v=RGOj5yH7evk">
-    <img src="https://ytcards.demolab.com/?id=RGOj5yH7evk&title=Tech+Video+6&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Tech Video 6">
-</a>
-
-<!-- END Fav-Yt-Vids -->
-#
+### 📫 Let's Connect!
 <a href="https://www.instagram.com/rida_unn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a
-
+  </a>
 
